@@ -5,8 +5,9 @@ Thus, I would like to try to use my spare time to record all topics related.
 if you have any issues, concers, you could reach me with malibo8407(at)gmail.com. Thanks for reading
 
 Ma Libo
+
 Version 1.0
-Liscense(MIT)
+License: MIT
 
 ## Index
 
