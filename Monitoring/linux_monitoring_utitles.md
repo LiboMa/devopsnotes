@@ -2,7 +2,7 @@
 
 ## 1. Top – Linux Process Monitoring 
 
-        top
+    top
 
 ## iostat
 ## iptraf
