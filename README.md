@@ -11,7 +11,7 @@ License: MIT
 
 ## Index
 
-    1. Linux System
+    1. Linux
     2. Python Programming
     3. Monitoring
     4. Performance Tunning
